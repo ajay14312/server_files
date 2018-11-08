@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <router-view/>
-    <div id="cookieConsent">
+    <div id="cookieConsent" v-if="cookieBannerValue">
     <div id="closeCookieConsent">x</div>
     This website is using cookies. <a href="#" target="_blank">More info</a>.
     </div>
@@ -14,19 +14,20 @@ import BootstrapVue from 'bootstrap-vue'
 Vue.use(BootstrapVue);
 export default {
   name: 'App',
-  beforeMount() {
+  data () {
+      return {
+          cookieBannerValue: true
+      }
+  },
+  mounted: function() {
       var isCookieBannerPlaced = localStorage.getItem('isCookieBannerPlaced');
       if(!isCookieBannerPlaced){
           localStorage.setItem('isCookieBannerPlaced', true)
-          setTimeout(function () {
-            var a = document.getElementById("cookieConsent");
-            a.style.display = 'none';
-        }, 4000);
+          setTimeout( () =>{
+            this.cookieBannerValue = false;
+        }, 40000);
       } else {
-            setTimeout(function () {
-            var a = document.getElementById("cookieConsent");
-            a.style.display = 'none';
-        });
+            this.cookieBannerValue = false;
       }
   }
 };
