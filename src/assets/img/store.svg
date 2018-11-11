@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="514px" height="514px" viewBox="0 0 514 514" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>store</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="store" transform="translate(1.000000, 1.000000)">
+            <g id="Group" opacity="0.3" stroke="#B35047">
+                <path d="M48,0 L48,512" id="Shape"></path>
+                <path d="M80,0 L80,512" id="Shape"></path>
+                <path d="M112,0 L112,512" id="Shape"></path>
+                <path d="M144,0 L144,512" id="Shape"></path>
+                <path d="M176,0 L176,512" id="Shape"></path>
+                <path d="M208,0 L208,512" id="Shape"></path>
+                <path d="M240,0 L240,512" id="Shape"></path>
+                <path d="M272,0 L272,512" id="Shape"></path>
+                <path d="M304,0 L304,512" id="Shape"></path>
+                <path d="M336,0 L336,512" id="Shape"></path>
+                <path d="M368,0 L368,512" id="Shape"></path>
+                <path d="M400,0 L400,512" id="Shape"></path>
+                <path d="M432,0 L432,512" id="Shape"></path>
+                <path d="M464,0 L464,512" id="Shape"></path>
+                <path d="M496,0 L496,512" id="Shape"></path>
+                <path d="M0,48 L512,48" id="Shape"></path>
+                <path d="M0,80 L512,80" id="Shape"></path>
+                <path d="M0,112 L512,112" id="Shape"></path>
+                <path d="M0,144 L512,144" id="Shape"></path>
+                <path d="M0,176 L512,176" id="Shape"></path>
+                <path d="M0,208 L512,208" id="Shape"></path>
+                <path d="M0,240 L512,240" id="Shape"></path>
+                <path d="M0,272 L512,272" id="Shape"></path>
+                <path d="M0,304 L512,304" id="Shape"></path>
+                <path d="M0,336 L512,336" id="Shape"></path>
+                <path d="M0,368 L512,368" id="Shape"></path>
+                <path d="M0,400 L512,400" id="Shape"></path>
+                <path d="M0,432 L512,432" id="Shape"></path>
+                <path d="M0,464 L512,464" id="Shape"></path>
+                <path d="M0,496 L512,496" id="Shape"></path>
+                <path d="M0,16 L512,16" id="Shape"></path>
+                <path d="M16,0 L16,512" id="Shape"></path>
+            </g>
+            <g id="Group" stroke="#B35047">
+                <path d="M32,0 L32,512" id="Shape"></path>
+                <path d="M64,0 L64,512" id="Shape"></path>
+                <path d="M96,0 L96,512" id="Shape"></path>
+                <path d="M128,0 L128,512" id="Shape"></path>
+                <path d="M160,0 L160,512" id="Shape"></path>
+                <path d="M192,0 L192,512" id="Shape"></path>
+                <path d="M224,0 L224,512" id="Shape"></path>
+                <path d="M256,0 L256,512" id="Shape"></path>
+                <path d="M288,0 L288,512" id="Shape"></path>
+                <path d="M320,0 L320,512" id="Shape"></path>
+                <path d="M352,0 L352,512" id="Shape"></path>
+                <path d="M384,0 L384,512" id="Shape"></path>
+                <path d="M416,0 L416,512" id="Shape"></path>
+                <path d="M448,0 L448,512" id="Shape"></path>
+                <path d="M480,0 L480,512" id="Shape"></path>
+                <path d="M0,32 L512,32" id="Shape"></path>
+                <path d="M0,64 L512,64" id="Shape"></path>
+                <path d="M0,96 L512,96" id="Shape"></path>
+                <path d="M0,128 L512,128" id="Shape"></path>
+                <path d="M0,160 L512,160" id="Shape"></path>
+                <path d="M0,192 L512,192" id="Shape"></path>
+                <path d="M0,224 L512,224" id="Shape"></path>
+                <path d="M0,256 L512,256" id="Shape"></path>
+                <path d="M0,288 L512,288" id="Shape"></path>
+                <path d="M0,320 L512,320" id="Shape"></path>
+                <path d="M0,352 L512,352" id="Shape"></path>
+                <path d="M0,384 L512,384" id="Shape"></path>
+                <path d="M0,416 L512,416" id="Shape"></path>
+                <path d="M0,448 L512,448" id="Shape"></path>
+                <path d="M0,480 L512,480" id="Shape"></path>
+                <rect id="Rectangle-path" x="0" y="0" width="512" height="512"></rect>
+            </g>
+            <path d="M480,448 L448,448 L448,384 C448,366.328 433.688,352 416,352 C398.312,352 384,366.328 384,384 L384,448 L128,448 L128,384 C128,366.328 113.688,352 96,352 C78.312,352 64,366.328 64,384 L64,448 L32,448 C14.312,448 0,462.328 0,480 C0,497.672 14.312,512 32,512 L480,512 C497.688,512 512,497.672 512,480 C512,462.328 497.688,448 480,448 Z M480,0 L32,0 C14.312,0 0,14.328 0,32 L0,224 C0,259.344 28.656,288 64,288 C99.344,288 128,259.344 128,224 C128,259.344 156.656,288 192,288 C227.344,288 256,259.344 256,224 C256,259.344 284.656,288 320,288 C355.344,288 384,259.344 384,224 C384,259.344 412.656,288 448,288 C483.344,288 512,259.344 512,224 L512,32 C512,14.328 497.688,0 480,0 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>
